@@ -1,1 +1,20 @@
+# Site settings
+title: "Chigozie Nnoli - Data Analyst/Scientist"
+description: "Data Analytics/Science portfolio showcasing machine learning projects and analysis"
+author: "Chigozie Nnoli"
+email: "nnoligozie@gmail.com"
 
+# Theme
+theme: jekyll-theme-minimal
+
+# Social links
+github_username: https://github.com/gozzy15.github.io
+linkedin_username: https://www.linkedin.com/in/chigozie-nnoli
+
+# Enable GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Analytics (optional)
+# google_analytics: G-XXXXXXXXXX
