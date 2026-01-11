@@ -7,7 +7,7 @@ title: Data Analytics/Science Portfolio
 
 # Hi, I'm Chigozie Nnoli 👋
 
-I am a results-driven Data Analyst skilled in Data Analytics, Business Intelligence, and Process Automation. With a background in Physics and professional ALX training, I transform raw data into actionable insights through SQL, Excel, and Power BI. I create dashboards that support decision-making and business growth. I bring discipline, innovation, and strong communication to every role, with a long-term goal of becoming an expert in analytics and automation. I’m also committed to empowering youths through mentorship and digital-skills development.
+I am a results-driven Data Analyst skilled in Data Analytics, Business Intelligence, and Process Automation. I transform raw data into actionable insights using SQL, Excel, Power BI, Python, and Pandas, and I apply machine learning techniques to uncover deeper patterns and predictive insights. I create dashboards that support decision-making and business growth. I bring discipline, innovation, and strong communication to every role, with a long-term goal of becoming an expert in analytics and automation. I’m also committed to empowering youths through mentorship and digital-skills development.
 
 ## Featured Projects
 
