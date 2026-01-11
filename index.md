@@ -41,6 +41,7 @@ Built a simple linear regression model that predicts student exam scores based o
 - *Languages:* Python, SQL
 - *Machine Learning:* Scikit-learn, XGBoost
 - *Visualization:* Matplotlib, Seaborn, Plotly, Dash,  Power BI
+- *Cloud & Big Data* ETL
 - *Tools:* Jupyter, Vs-Code
 - *Web Application:* Streamlit
 
