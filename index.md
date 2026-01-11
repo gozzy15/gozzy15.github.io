@@ -50,7 +50,7 @@ Built a simple linear regression model that predicts student exam scores based o
 - 📧 [nnoligozie@gmail.com](mailto:nnoligozie@gmail.com)
 - 🔽 [Download CV](/images/Chigozie_Nnoli_Resume.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chigozie-nnoli)
-- 🐙 [GitHub](https://github.com/gozzy15.github.io)
+- 🐙 [GitHub](https://github.com/gozzy15)
 
 ---
 
